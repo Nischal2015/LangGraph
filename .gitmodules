@@ -1,3 +1,6 @@
 [submodule "langgraph-crash-course"]
 	path = langgraph-crash-course
 	url = git@github.com:Nischal2015/langgraph-crash-course.git
+[submodule "langchain-academy"]
+	path = langchain-academy
+	url = git@github.com:Nischal2015/langchain-academy.git
